@@ -1,0 +1,14 @@
+abstract class A{
+    abstract void eat();
+    void  sleep()[
+        system.out.println("sleepinng");
+    ]
+}
+ class  B extends A{
+    @Override
+    void eat()[
+        sysout.println("eating");
+        super.sleep();
+    ]
+    
+ }
