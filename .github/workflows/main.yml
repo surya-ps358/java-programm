@@ -17,7 +17,7 @@ jobs:
           java-version: '17'
 
       - name: Compile Java
-        run: javac Practis/A.java
+        run: javac Practis/a19.java
 
       - name: Run Java Program
-        run: java Practis.A
+        run: java Practis.a19
